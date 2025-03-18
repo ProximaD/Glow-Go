@@ -1,13 +1,15 @@
 # Glow-Go
 Online Salon Booking System using PHP and MySQL.
-Core Features
-✅ User Registration & Login
-✅ Booking System (Select service, date, and time)
-✅ Admin Dashboard (Manage bookings & services)
-✅ Service Listings (Haircuts, facials, etc.)
-✅ Appointment Confirmation & Status
 
-#Tech Stack
+# Core Features
+
+1. User Registration & Login
+2. Booking System (Select service, date, and time)
+3. Admin Dashboard (Manage bookings & services)
+4. Service Listings (Haircuts, facials, etc.)
+5. Appointment Confirmation & Status
+
+# Tech Stack
 Frontend: HTML, CSS, JavaScript (optional: Bootstrap for styling)
 Backend: PHP, MySQL
 Database: MySQL (Tables for users, services, and bookings)
