@@ -1,4 +1,4 @@
-# Glow-Go
+# Glamour Touch
 Online Salon Booking System using PHP and MySQL.
 
 # Core Features
