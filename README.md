@@ -20,21 +20,24 @@ Online Salon Booking System using PHP and MySQL.
 1. users table (id, name, email, password)
 2. services table (id, name, price, duration)
 3. bookings table (id, user_id, service_id, date, time, status)
-4. User Authentication
+   
+# User Authentication
+1. Registration & login system with hashed passwords
+2. User session management
 
-# Registration & login system with hashed passwords
-User session management
-Booking Functionality
 
-# Display available services
-Form to select service, date, and time
-Insert booking into the database
-Admin Panel
+# Booking Functionality
+1. Display available services
+2. Form to select service, date, and time
+3. Insert booking into the database
 
-# View & manage appointments
-Approve or cancel bookings
-Add/edit salon services
-Email/SMS Notifications (Optional)
 
-Send booking confirmation via email
-Notify users about appointment status
+# Admin Panel
+1. View & manage appointments
+2. Approve or cancel bookings
+3. Add/edit salon services
+
+
+# Email/SMS Notifications (Optional)
+1. Send booking confirmation via email
+2. Notify users about appointment status
