@@ -36,6 +36,6 @@ Online Salon Booking System using PHP and MySQL.
 3. Add/edit salon services
 
 
-# Email/SMS Notifications (Optional)
+# Email/SMS Notifications
 1. Send booking confirmation via email
 2. Notify users about appointment status
