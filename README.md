@@ -10,11 +10,9 @@ Online Salon Booking System using PHP and MySQL.
 5. Appointment Confirmation & Status
 
 # Tech Stack
-1. Frontend: HTML, CSS, JavaScript (optional: Bootstrap for styling)
+1. Frontend: HTML, CSS, JavaScript
 2. Backend: PHP, MySQL
 3. Database: MySQL (Tables for users, services, and bookings)
-
-# Project Breakdown.
 
 # Database Setup
 1. users table (id, name, email, password)
